@@ -1,0 +1,4 @@
+Numbers containing an even number of ones sorted in ascending order:
+10 43 EF 
+Remaining numbers sorted in descending order:
+AC 12 12 11 09 5 03 
