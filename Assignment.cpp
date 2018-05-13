@@ -97,13 +97,13 @@ int main()
 			suma = check(buff[i]);
 			if (suma % 2)
 			{
-				nieparzyste[index_n] = buff[i];
-				index_n++;
+				parzyste[inedx_p] = buff[i];
+				inedx_p++;
 			}
 			else
 			{
-				parzyste[inedx_p] = buff[i];
-				inedx_p++;
+				nieparzyste[index_n] = buff[i];
+				index_n++;
 			}
 		}
 		
